@@ -1,0 +1,41 @@
+id,meme,expression,difficulty,notes
+hide_the_pain_harold,Hide the Pain Harold,forced_smile,easy,Frontal; great test of fake vs real smile
+disaster_girl,Disaster Girl,smirk,easy,Frontal child face
+success_kid,Success Kid,determined_smirk,medium,Fist in frame; face slightly turned
+leo_cheers,Leonardo DiCaprio Cheers (Great Gatsby),smile,easy,Raised glass below face
+laughing_leo,Laughing Leo (Django),big_laugh,medium,Head tilted back
+overly_attached_gf,Overly Attached Girlfriend,wide_eyed_smile,easy,Very frontal; clean landmarks
+condescending_wonka,Condescending Wonka,smug,easy,Classic frontal crop
+bad_luck_brian,Bad Luck Brian,awkward_grin,easy,School photo; very frontal
+dafoe_scientist,Willem Dafoe I'm Something of a Scientist,smug_smile,easy,Frontal
+roll_safe,Roll Safe (Think About It),smug,medium,Finger at temple near face
+oprah_car,Oprah You Get a Car,excited_shout,medium,Mouth wide open; arms up
+drake_approve,Drake Hotline Bling (approve panel),approving_smile,easy,Use bottom panel only
+drake_disapprove,Drake Hotline Bling (disapprove panel),disapproval,hard,Hand partly blocks face
+blinking_guy,Blinking White Guy,surprised,medium,Pick the wide-eyed frame
+cage_you_dont_say,Nicolas Cage You Don't Say,exaggerated_wide_eyes,easy,Extreme expression; good anchor
+steve_harvey_shocked,Steve Harvey Shocked,shocked_mouth_open,easy,Frontal
+chris_pratt_surprised,Surprised Chris Pratt,surprised,easy,Parks and Rec still
+ermahgerd,Ermahgerd Girl,goofy_excited,easy,Frontal; open mouth
+kombucha_disgust,Kombucha Girl (disgust frame),disgust,easy,Same person as intrigued frame - tests subtle differences
+kombucha_intrigued,Kombucha Girl (intrigued frame),intrigued,easy,Pair with kombucha_disgust
+nick_young_confused,Nick Young Confused,confused,easy,Remove question-mark overlay if possible
+confused_math_lady,Confused Math Lady,confused,medium,Math overlay over face; find clean version
+side_eye_chloe,Side Eye Chloe,skeptical_side_eye,medium,Eye direction matters; landmarks may miss gaze
+skeptical_kid,Skeptical Third World Kid,skeptical_squint,easy,Frontal
+skeptical_baby,Skeptical Baby,skeptical,easy,Frontal baby face
+rdj_eye_roll,Robert Downey Jr Eye Roll,eye_roll,hard,Expression is mostly in the eyes; use a mid-roll frame
+crying_jordan,Crying Michael Jordan,crying,easy,Frontal
+crying_kim,Kim Kardashian Crying,crying,easy,Frontal; distorted mouth
+woman_yelling,Woman Yelling at Cat (left panel),crying_yelling,medium,Crop to the woman; hand pointing
+sad_keanu,Sad Keanu,sad,hard,Side profile; small face in frame
+pablo_waiting,Pablo Escobar Waiting,pensive_sad,hard,Small face; pick the frontal panel
+gordon_angry,Gordon Ramsay Angry,angry_yelling,easy,Frontal yell
+michael_scott_no,Michael Scott No God Please No,screaming,easy,Mouth wide; head tilted back
+jordan_peele_sweat,Sweating Jordan Peele,nervous,easy,Sweat drops do not affect landmarks
+jim_camera_look,Jim Halpert Looks at Camera,deadpan,easy,Subtle; close to neutral
+bernie_asking,Bernie Sanders I Am Once Again Asking,serious_neutral,easy,Near-neutral; good baseline
+one_does_not_simply,One Does Not Simply (Boromir),serious_explaining,medium,Hand gesture beside face
+gosling_stare,Ryan Gosling Blade Runner Stare,blank_stare,easy,Near-neutral; slight head tilt
+dwight_false,Dwight Schrute False,smug_serious,easy,Frontal
+mr_bean_waiting,Mr Bean Waiting,bored_neutral,medium,Pick a frontal frame
